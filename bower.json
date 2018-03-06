@@ -1,0 +1,21 @@
+{
+  "name": "proyecto bower",
+  "authors": [
+    "Yetro García <yetro_gasu@hotmail.com>"
+  ],
+  "description": "mi primer proyecto bower",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
